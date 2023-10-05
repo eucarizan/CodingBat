@@ -8,7 +8,7 @@ code practice
 ## Topics
 topic name|description|completion
 :-:|:-:|:-:
-warmup-1|simple warmup problems to get started|☆☆☆☆☆☆☆☆
+[warmup-1](./WarmUp01/README.md#codingbat---warmup-1)|simple warmup problems to get started|☆☆☆☆☆☆☆☆
 warmup-2|medium warmup string/array loops|☆☆☆☆☆☆
 string-1|basic string problems -- no loops|☆☆☆☆☆☆☆☆
 array-1|basic array problems -- no loops|☆☆☆☆☆☆☆☆
