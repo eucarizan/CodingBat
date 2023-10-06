@@ -18,8 +18,8 @@ class SumDoubleTest {
             "testSum3 : 0 : 1 : 1",
             "testSum4 : 3 : 4 : 7",
     }, delimiter = ':')
-    public void test(String name, int aSmile, int bSmile, int expected) {
-        int result = SumDouble.add(aSmile, bSmile);
+    public void test(String name, int a, int b, int expected) {
+        int result = SumDouble.add(a, b);
 
         assertEquals(expected, result);
     }
