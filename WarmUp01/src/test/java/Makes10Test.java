@@ -4,6 +4,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+@SuppressWarnings("unused")
 class Makes10Test {
     @ParameterizedTest(name = "{0} -- tenOrSumIs10({1}, {2}) == {3}")
     @DisplayName("param test")
