@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
 class FrontBackTest {
-    @ParameterizedTest(name = "{0} -- notString({1}) == {2}")
+    @ParameterizedTest(name = "{0} -- frontBack({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : code : eodc",

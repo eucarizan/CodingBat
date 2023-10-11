@@ -18,6 +18,7 @@ number|solution|test|description
 10|[missing char](src/main/java/MissingChar.java)|[unit test](src/test/java/MissingCharTest.java)|Given a non-empty string and an int n, return a new string where the char at index n has been removed. The value of n will be a valid index of a char in the original string (i.e. n will be in the range 0..str.length()-1 inclusive).
 11|[front back](src/main/java/FrontBack.java)|[unit test](src/test/java/FrontBackTest.java)|Given a string, return a new string where the first and last chars have been exchanged.
 12|[front 3](src/main/java/Front3.java)|[unit test](src/test/java/Front3Test.java)|Given a string, we'll say that the front is the first 3 chars of the string. If the string length is less than 3, the front is whatever is there. Return a new string which is 3 copies of the front.
+13|[back around](src/main/java/BackAround.java)|[unit test](src/test/java/BackAroundTest.java)|Given a string, take the last char and return a new string with the last char added at the front and back, so "cat" yields "tcatt". The original string will be length 1 or more.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 

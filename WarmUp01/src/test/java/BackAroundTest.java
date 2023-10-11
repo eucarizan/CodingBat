@@ -5,20 +5,19 @@ import org.junit.jupiter.params.provider.CsvSource;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
-class Front3Test {
-    @ParameterizedTest(name = "{0} -- front3({1}) == {2}")
+class BackAroundTest {
+    @ParameterizedTest(name = "{0} -- backAround({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
-            "test1 : Java : JavJavJav",
-            "test2 : Chocolate : ChoChoCho",
-            "test3 : abc : abcabcabc",
-            "test4 : abcXYZ : abcabcabc",
-            "test5 : ab : ababab",
-            "test6 : a : aaa",
-            "test7 : '' : ''",
+            "test1 : cat : tcatt",
+            "test2 : Hello : oHelloo",
+            "test3 : a : aaa",
+            "test4 : abc : cabcc",
+            "test5 : read : dreadd",
+            "test6 : boo : obooo",
     }, delimiter = ':')
     public void test(String name, String param, String expected) {
-        String result = Front3.front3(param);
+        String result = BackAround.backAround(param);
 
         assertEquals(expected, result);
     }
