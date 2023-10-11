@@ -16,6 +16,7 @@ number|solution|test|description
 8|[pos neg](src/main/java/PosNeg.java)|[unit test](src/test/java/PosNegTest.java)|Given 2 int values, return true if one is negative and one is positive. Except if the parameter "negative" is true, then return true only if both are negative.
 9|[not string](src/main/java/NotString.java)|[unit test](src/test/java/NotStringTest.java)|Given a string, return a new string where "not " has been added to the front. However, if the string already begins with "not", return the string unchanged. Note: use .equals() to compare 2 strings.
 10|[missing char](src/main/java/MissingChar.java)|[unit test](src/test/java/MissingCharTest.java)|Given a non-empty string and an int n, return a new string where the char at index n has been removed. The value of n will be a valid index of a char in the original string (i.e. n will be in the range 0..str.length()-1 inclusive).
+11|[front back](src/main/java/FrontBack.java)|[unit test](src/test/java/FrontBackTest.java)|Given a string, return a new string where the first and last chars have been exchanged.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
