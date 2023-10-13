@@ -19,7 +19,8 @@ number|solution|test|description
 11|[front back](src/main/java/FrontBack.java)|[unit test](src/test/java/FrontBackTest.java)|Given a string, return a new string where the first and last chars have been exchanged.
 12|[front 3](src/main/java/Front3.java)|[unit test](src/test/java/Front3Test.java)|Given a string, we'll say that the front is the first 3 chars of the string. If the string length is less than 3, the front is whatever is there. Return a new string which is 3 copies of the front.
 13|[back around](src/main/java/BackAround.java)|[unit test](src/test/java/BackAroundTest.java)|Given a string, take the last char and return a new string with the last char added at the front and back, so "cat" yields "tcatt". The original string will be length 1 or more.
-14|[or 35](src/main/java/Or35.java)|[unit test](src/test/java/Or35Test.java)|Return true if the given non-negative number is a multiple of 3 or a multiple of 5.
+14|[or35](src/main/java/Or35.java)|[unit test](src/test/java/Or35Test.java)|Return true if the given non-negative number is a multiple of 3 or a multiple of 5.
+15|[front22](src/main/java/Front22.java)|[unit test](src/test/java/Front22Test.java)|Given a string, take the first 2 chars and return the string with the 2 chars added at both the front and back, so "kitten" yields"kikittenki". If the string length is less than 2, use whatever chars are there.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
