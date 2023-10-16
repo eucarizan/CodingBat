@@ -24,6 +24,7 @@ number|solution|test|description
 16|[startHi](src/main/java/StartHi.java)|[unit test](src/test/java/StartHiTest.java)|Given a string, return true if the string starts with "hi" and false otherwise.
 17|[icyHot](src/main/java/IcyHot.java)|[unit test](src/test/java/IcyHotTest.java)|Given two temperatures, return true if one is less than 0 and the other is greater than 100.
 18|[in1020](src/main/java/In1020.java)|[unit test](src/test/java/In1020Test.java)|Given 2 int values, return true if either of them is in the range 10..20 inclusive.
+19|[loneTeen](src/main/java/LoneTeen.java)|[unit test](src/test/java/LoneTeenTest.java)|We'll say that a number is "teen" if it is in the range 13..19 inclusive. Given 2 int values, return true if one or the other is teen, but not both.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
