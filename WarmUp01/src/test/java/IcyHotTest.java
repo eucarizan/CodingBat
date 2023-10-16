@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
 class IcyHotTest {
-    @ParameterizedTest(name = "{0} -- notString({1}, {2}) == {3}")
+    @ParameterizedTest(name = "{0} -- icyHot({1}, {2}) == {3}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : 120 : -1 : true",

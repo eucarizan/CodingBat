@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
 class In1020Test {
-    @ParameterizedTest(name = "{0} -- notString({1}) == {2}")
+    @ParameterizedTest(name = "{0} -- in1020({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : 12 : 99 : true",
