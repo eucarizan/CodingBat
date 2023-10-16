@@ -23,6 +23,7 @@ number|solution|test|description
 15|[front22](src/main/java/Front22.java)|[unit test](src/test/java/Front22Test.java)|Given a string, take the first 2 chars and return the string with the 2 chars added at both the front and back, so "kitten" yields"kikittenki". If the string length is less than 2, use whatever chars are there.
 16|[startHi](src/main/java/StartHi.java)|[unit test](src/test/java/StartHiTest.java)|Given a string, return true if the string starts with "hi" and false otherwise.
 17|[icyHot](src/main/java/IcyHot.java)|[unit test](src/test/java/IcyHotTest.java)|Given two temperatures, return true if one is less than 0 and the other is greater than 100.
+18|[in1020](src/main/java/In1020.java)|[unit test](src/test/java/In1020Test.java)|Given 2 int values, return true if either of them is in the range 10..20 inclusive.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
