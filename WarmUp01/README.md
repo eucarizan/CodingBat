@@ -21,6 +21,7 @@ number|solution|test|description
 13|[back around](src/main/java/BackAround.java)|[unit test](src/test/java/BackAroundTest.java)|Given a string, take the last char and return a new string with the last char added at the front and back, so "cat" yields "tcatt". The original string will be length 1 or more.
 14|[or35](src/main/java/Or35.java)|[unit test](src/test/java/Or35Test.java)|Return true if the given non-negative number is a multiple of 3 or a multiple of 5.
 15|[front22](src/main/java/Front22.java)|[unit test](src/test/java/Front22Test.java)|Given a string, take the first 2 chars and return the string with the 2 chars added at both the front and back, so "kitten" yields"kikittenki". If the string length is less than 2, use whatever chars are there.
+16|[startHi](src/main/java/StartHi.java)|[unit test](src/test/java/StartHiTest.java)|Given a string, return true if the string starts with "hi" and false otherwise.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
