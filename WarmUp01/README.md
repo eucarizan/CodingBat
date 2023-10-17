@@ -25,7 +25,8 @@ number|solution|test|description
 17|[icyHot](src/main/java/IcyHot.java)|[unit test](src/test/java/IcyHotTest.java)|Given two temperatures, return true if one is less than 0 and the other is greater than 100.
 18|[in1020](src/main/java/In1020.java)|[unit test](src/test/java/In1020Test.java)|Given 2 int values, return true if either of them is in the range 10..20 inclusive.
 19|[loneTeen](src/main/java/LoneTeen.java)|[unit test](src/test/java/LoneTeenTest.java)|We'll say that a number is "teen" if it is in the range 13..19 inclusive. Given 2 int values, return true if one or the other is teen, but not both.
-20|[DelDel](src/main/java/DelDel.java)|[unit test](src/test/java/DelDelTest.java)|Given a string, if the string "del" appears starting at index 1, return a string where that "del" has been deleted. Otherwise, return the string unchanged.
+20|[delDel](src/main/java/DelDel.java)|[unit test](src/test/java/DelDelTest.java)|Given a string, if the string "del" appears starting at index 1, return a string where that "del" has been deleted. Otherwise, return the string unchanged.
+21|[mixStart](src/main/java/MixStart.java)|[unit test](src/test/java/MixStartTest.java)|Return true if the given string begins with "mix", except the 'm' can be anything, so "pix", "9ix" .. all count.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
