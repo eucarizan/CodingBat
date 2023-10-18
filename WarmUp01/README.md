@@ -29,6 +29,7 @@ number|solution|test|description
 21|[mixStart](src/main/java/MixStart.java)|[unit test](src/test/java/MixStartTest.java)|Return true if the given string begins with "mix", except the 'm' can be anything, so "pix", "9ix" .. all count.
 22|[startOz](src/main/java/StartOz.java)|[unit test](src/test/java/StartOzTest.java)|Given a string, return a string made of the first 2 chars (if present), however include first char only if it is 'o' and include the second only if it is 'z', so "ozymandias" yields "oz".
 23|[intMax](src/main/java/IntMax.java)|[unit test](src/test/java/IntMaxTest.java)|Given three int values, a b c, return the largest.
+24|[close10](src/main/java/Close10.java)|[unit test](src/test/java/Close10Test.java)|Given 2 int values, return whichever value is nearest to the value 10, or return 0 in the event of a tie. Note that Math.abs(n) returns the absolute value of a number.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
