@@ -27,6 +27,7 @@ number|solution|test|description
 19|[loneTeen](src/main/java/LoneTeen.java)|[unit test](src/test/java/LoneTeenTest.java)|We'll say that a number is "teen" if it is in the range 13..19 inclusive. Given 2 int values, return true if one or the other is teen, but not both.
 20|[delDel](src/main/java/DelDel.java)|[unit test](src/test/java/DelDelTest.java)|Given a string, if the string "del" appears starting at index 1, return a string where that "del" has been deleted. Otherwise, return the string unchanged.
 21|[mixStart](src/main/java/MixStart.java)|[unit test](src/test/java/MixStartTest.java)|Return true if the given string begins with "mix", except the 'm' can be anything, so "pix", "9ix" .. all count.
+22|[startOz](src/main/java/StartOz.java)|[unit test](src/test/java/StartOzTest.java)|Given a string, return a string made of the first 2 chars (if present), however include first char only if it is 'o' and include the second only if it is 'z', so "ozymandias" yields "oz".
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
