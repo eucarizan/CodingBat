@@ -32,6 +32,7 @@ number|solution|test|description
 24|[close10](src/main/java/Close10.java)|[unit test](src/test/java/Close10Test.java)|Given 2 int values, return whichever value is nearest to the value 10, or return 0 in the event of a tie. Note that Math.abs(n) returns the absolute value of a number.
 25|[in3050](src/main/java/In3050.java)|[unit test](src/test/java/In3050Test.java)|Given 2 int values, return true if they are both in the range 30..40 inclusive, or they are both in the range 40..50 inclusive.
 26|[max1020](src/main/java/Max1020.java)|[unit test](src/test/java/Max1020Test.java)|Given 2 positive int values, return the larger value that is in the range 10..20 inclusive, or return 0 if neither is in that range.
+27|[stringE](src/main/java/StringE.java)|[unit test](src/test/java/StringETest.java)|Return true if the given string contains between 1 and 3 'e' chars.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
