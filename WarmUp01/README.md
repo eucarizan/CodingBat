@@ -35,11 +35,12 @@ number|solution|test|description
 27|[stringE](src/main/java/StringE.java)|[unit test](src/test/java/StringETest.java)|Return true if the given string contains between 1 and 3 'e' chars.
 28|[lastDigit](src/main/java/LastDigit.java)|[unit test](src/test/java/LastDigitTest.java)|Given two non-negative int values, return true if they have the same last digit, such as with 27 and 57. Note that the % "mod" operator computes remainders, so 17 % 10 is 7.
 29|[endUp](src/main/java/EndUp.java)|[unit test](src/test/java/EndUpTest.java)|Given a string, return a new string where the last 3 chars are now in upper case. If the string has less than 3 chars, uppercase whatever is there. Note that str.toUpperCase() returns the uppercase version of a string.
+30|[name](src/main/java/EveryNth.java)|[unit test](src/test/java/EveryNthTest.java)|Given a non-empty string and an int N, return the string made starting with char 0, and then every Nth char of the string. So if N is 3, use char 0, 3, 6, ... and so on. N is 1 or more.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
 ## Tags
-- boolean, int
+- boolean, int, strings
 - logical operators
 
 [<<](../README.md)
