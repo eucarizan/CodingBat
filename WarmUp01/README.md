@@ -33,6 +33,7 @@ number|solution|test|description
 25|[in3050](src/main/java/In3050.java)|[unit test](src/test/java/In3050Test.java)|Given 2 int values, return true if they are both in the range 30..40 inclusive, or they are both in the range 40..50 inclusive.
 26|[max1020](src/main/java/Max1020.java)|[unit test](src/test/java/Max1020Test.java)|Given 2 positive int values, return the larger value that is in the range 10..20 inclusive, or return 0 if neither is in that range.
 27|[stringE](src/main/java/StringE.java)|[unit test](src/test/java/StringETest.java)|Return true if the given string contains between 1 and 3 'e' chars.
+28|[lastDigit](src/main/java/LastDigit.java)|[unit test](src/test/java/LastDigitTest.java)|Given two non-negative int values, return true if they have the same last digit, such as with 27 and 57. Note that the % "mod" operator computes remainders, so 17 % 10 is 7.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
