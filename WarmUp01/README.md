@@ -30,7 +30,8 @@ number|solution|test|description
 22|[startOz](src/main/java/StartOz.java)|[unit test](src/test/java/StartOzTest.java)|Given a string, return a string made of the first 2 chars (if present), however include first char only if it is 'o' and include the second only if it is 'z', so "ozymandias" yields "oz".
 23|[intMax](src/main/java/IntMax.java)|[unit test](src/test/java/IntMaxTest.java)|Given three int values, a b c, return the largest.
 24|[close10](src/main/java/Close10.java)|[unit test](src/test/java/Close10Test.java)|Given 2 int values, return whichever value is nearest to the value 10, or return 0 in the event of a tie. Note that Math.abs(n) returns the absolute value of a number.
-25|[In3050](src/main/java/In3050.java)|[unit test](src/test/java/In3050Test.java)|Given 2 int values, return true if they are both in the range 30..40 inclusive, or they are both in the range 40..50 inclusive.
+25|[in3050](src/main/java/In3050.java)|[unit test](src/test/java/In3050Test.java)|Given 2 int values, return true if they are both in the range 30..40 inclusive, or they are both in the range 40..50 inclusive.
+26|[max1020](src/main/java/Max1020.java)|[unit test](src/test/java/Max1020Test.java)|Given 2 positive int values, return the larger value that is in the range 10..20 inclusive, or return 0 if neither is in that range.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
