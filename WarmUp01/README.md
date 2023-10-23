@@ -34,6 +34,7 @@ number|solution|test|description
 26|[max1020](src/main/java/Max1020.java)|[unit test](src/test/java/Max1020Test.java)|Given 2 positive int values, return the larger value that is in the range 10..20 inclusive, or return 0 if neither is in that range.
 27|[stringE](src/main/java/StringE.java)|[unit test](src/test/java/StringETest.java)|Return true if the given string contains between 1 and 3 'e' chars.
 28|[lastDigit](src/main/java/LastDigit.java)|[unit test](src/test/java/LastDigitTest.java)|Given two non-negative int values, return true if they have the same last digit, such as with 27 and 57. Note that the % "mod" operator computes remainders, so 17 % 10 is 7.
+29|[endUp](src/main/java/EndUp.java)|[unit test](src/test/java/EndUpTest.java)|Given a string, return a new string where the last 3 chars are now in upper case. If the string has less than 3 chars, uppercase whatever is there. Note that str.toUpperCase() returns the uppercase version of a string.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
