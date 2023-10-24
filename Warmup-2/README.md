@@ -6,7 +6,8 @@ Medium warmup string/array loops
 ## Problems
 number|solution|test|description
 :-:|:-:|:-:|:--
-1|[stringTimes](src/main/java/StringTimes.java)|[unit test](src/test/java/StringTimesTest.java)|Given a string and a non-negative int n, return a larger string that is n copies of the original string.
+1|[stringTimes](src/main/java/StringTimes.java)|[unit test](src/test/java/StringTimesTest.java)|Given a string and a non-negative int n, return a larger string that is n copies of the original string
+2|[frontTimes](src/main/java/FrontTimes.java)|[unit test](src/test/java/FrontTimesTest.java)|Given a string and a non-negative int n, we'll say that the front of the string is the first 3 chars, or whatever is there if the string is less than length 3. Return n copies of the front
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
