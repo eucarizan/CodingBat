@@ -11,6 +11,7 @@ number|solution|test|description
 3|[countXX](src/main/java/CountXX.java)|[unit test](src/test/java/CountXXTest.java)|Count the number of "xx" in the given string. We'll say that overlapping is allowed, so "xxx" contains 2 "xx"
 4|[doubleX](src/main/java/DoubleX.java)|[unit test](src/test/java/DoubleXTest.java)|Given a string, return true if the first instance of "x" in the string is immediately followed by another "x"
 5|[stringBits](src/main/java/StringBits.java)|[unit test](src/test/java/StringBitsTest.java)|Given a string, return a new string made of every other char starting with the first, so "Hello" yields "Hlo"
+6|[stringSplosion](src/main/java/StringSplosion.java)|[unit test](src/test/java/StringSplosionTest.java)|Given a non-empty string like "Code" return a string like "CCoCodCode".
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
