@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
 class ArrayFront9Test {
-    @ParameterizedTest(name = "{0} -- method({1}) == {2}")
+    @ParameterizedTest(name = "{0} -- arrayFront9({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : 1, 2, 9, 3, 4 : true",
