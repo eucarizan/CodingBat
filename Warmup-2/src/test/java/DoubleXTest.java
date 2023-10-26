@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
 class DoubleXTest {
-    @ParameterizedTest(name = "{0} -- method({1}) == {2}")
+    @ParameterizedTest(name = "{0} -- doubleX({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : axxbb : true",

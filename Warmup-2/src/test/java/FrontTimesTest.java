@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
 class FrontTimesTest {
-    @ParameterizedTest(name = "{0} -- method({1}, {2}) == {3}")
+    @ParameterizedTest(name = "{0} -- frontTimes({1}, {2}) == {3}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : Chocolate : 2 : ChoCho",

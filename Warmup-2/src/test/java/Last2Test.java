@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
 class Last2Test {
-    @ParameterizedTest(name = "{0} -- method({1}) == {2}")
+    @ParameterizedTest(name = "{0} -- last2({1}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : hixxhi : 1",

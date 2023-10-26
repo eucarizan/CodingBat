@@ -5,8 +5,8 @@ import org.junit.jupiter.params.provider.CsvSource;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
-class SomeTest {
-    @ParameterizedTest(name = "{0} -- method({1}, {2}) == {2}")
+class StringBitsTest {
+    @ParameterizedTest(name = "{0} -- stringBits({1}, {2}) == {2}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : Hello : Hlo",
@@ -25,8 +25,4 @@ class SomeTest {
 
         assertEquals(expected, result);
     }
-}
-
-class StringBitsTest {
-
 }

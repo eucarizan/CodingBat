@@ -13,10 +13,11 @@ number|solution|test|description
 5|[stringBits](src/main/java/StringBits.java)|[unit test](src/test/java/StringBitsTest.java)|Given a string, return a new string made of every other char starting with the first, so "Hello" yields "Hlo"
 6|[stringSplosion](src/main/java/StringSplosion.java)|[unit test](src/test/java/StringSplosionTest.java)|Given a non-empty string like "Code" return a string like "CCoCodCode".
 7|[last2](src/main/java/Last2.java)|[unit test](src/test/java/Last2Test.java)|Given a string, return the count of the number of times that a substring length 2 appears in the string and also as the last 2 chars of the string, so "hixxxhi" yields 1 (we won't count the end substring).
+8|[arrayCount9](src/main/java/ArrayCount9.java)|[unit test](src/test/java/ArrayCount9Test.java)|Given an array of ints, return the number of 9's in the array.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
 ## Tags
-- strings
+- strings, arrays
 
 [<<](../README.md#coding-bat)
