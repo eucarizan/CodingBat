@@ -15,7 +15,8 @@ number|solution|test|description
 7|[last2](src/main/java/Last2.java)|[unit test](src/test/java/Last2Test.java)|Given a string, return the count of the number of times that a substring length 2 appears in the string and also as the last 2 chars of the string, so "hixxxhi" yields 1 (we won't count the end substring).
 8|[arrayCount9](src/main/java/ArrayCount9.java)|[unit test](src/test/java/ArrayCount9Test.java)|Given an array of ints, return the number of 9's in the array.
 9|[arrayFront9](src/main/java/ArrayFront9.java)|[unit test](src/test/java/ArrayFront9Test.java)|Given an array of ints, return true if one of the first 4 elements in the array is a 9. The array length may be less than 4.
-10|[Array123](src/main/java/Array123.java)|[unit test](src/test/java/Array123Test.java)|Given an array of ints, return true if the sequence of numbers 1, 2, 3 appears in the array somewhere.
+10|[array123](src/main/java/Array123.java)|[unit test](src/test/java/Array123Test.java)|Given an array of ints, return true if the sequence of numbers 1, 2, 3 appears in the array somewhere.
+11|[stringMatch](src/main/java/StringMatch.java)|[unit test](src/test/java/StringMatchTest.java)|Given 2 strings, a and b, return the number of the positions where they contain the same length 2 substring. So "xxcaazz" and "xxbaaz" yields 3, since the "xx", "aa", and "az" substrings appear in the same place in both strings.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
