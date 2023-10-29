@@ -18,6 +18,7 @@ number|solution|test|description
 10|[array123](src/main/java/Array123.java)|[unit test](src/test/java/Array123Test.java)|Given an array of ints, return true if the sequence of numbers 1, 2, 3 appears in the array somewhere.
 11|[stringMatch](src/main/java/StringMatch.java)|[unit test](src/test/java/StringMatchTest.java)|Given 2 strings, a and b, return the number of the positions where they contain the same length 2 substring. So "xxcaazz" and "xxbaaz" yields 3, since the "xx", "aa", and "az" substrings appear in the same place in both strings.
 12|[stringX](src/main/java/StringX.java)|[unit test](src/test/java/StringXTest.java)|Given a string, return a version where all the "x" have been removed. Except an "x" at the very start or end should not be removed.
+13|[name](src/main/java/AltPairs.java)|[unit test](src/test/java/AltPairsTest.java)|Given a string, return a string made of the chars at indexes 0,1, 4,5, 8,9 ... so "kittens" yields "kien".
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
