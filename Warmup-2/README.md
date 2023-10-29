@@ -20,6 +20,7 @@ number|solution|test|description
 12|[stringX](src/main/java/StringX.java)|[unit test](src/test/java/StringXTest.java)|Given a string, return a version where all the "x" have been removed. Except an "x" at the very start or end should not be removed.
 13|[altPairs](src/main/java/AltPairs.java)|[unit test](src/test/java/AltPairsTest.java)|Given a string, return a string made of the chars at indexes 0,1, 4,5, 8,9 ... so "kittens" yields "kien".
 14|[stringYak](src/main/java/StringYak.java)|[unit test](src/test/java/StringYakTest.java)|Suppose the string "yak" is unlucky. Given a string, return a version where all the "yak" are removed, but the "a" can be any char. The "yak" strings will not overlap.
+15|[array667](src/main/java/Array667.java)|[unit test](src/test/java/Array667Test.java)|Given an array of ints, return the number of times that two 6's are next to each other in the array. Also count instances where the second "6" is actually a 7.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
