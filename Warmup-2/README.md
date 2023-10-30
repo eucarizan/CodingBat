@@ -22,6 +22,7 @@ number|solution|test|description
 14|[stringYak](src/main/java/StringYak.java)|[unit test](src/test/java/StringYakTest.java)|Suppose the string "yak" is unlucky. Given a string, return a version where all the "yak" are removed, but the "a" can be any char. The "yak" strings will not overlap.
 15|[array667](src/main/java/Array667.java)|[unit test](src/test/java/Array667Test.java)|Given an array of ints, return the number of times that two 6's are next to each other in the array. Also count instances where the second "6" is actually a 7.
 16|[noTriples](src/main/java/NoTriples.java)|[unit test](src/test/java/NoTriplesTest.java)|Given an array of ints, we'll say that a triple is a value appearing 3 times in a row in the array. Return true if the array does not contain any triples.
+17|[has271](src/main/java/Has271.java)|[unit test](src/test/java/Has271Test.java)|Given an array of ints, return true if it contains a 2, 7, 1 pattern: a value, followed by the value plus 5, followed by the value minus 1. Additionally the 271 counts even if the "1" differs by 2 or less from the correct value.
 <hr>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc -->
 
