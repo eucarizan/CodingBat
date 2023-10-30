@@ -6,9 +6,10 @@ basic string problems -- no loops
 ## Problems
 number|solution|test|description
 :-:|:-:|:-:|:--
-1|[helloName](src/main/java/org/example/HelloName.java)|[unit test](src/test/java/org/example/HelloNameTest.java)|Given a string name, e.g. "Bob", return a greeting of the form "Hello Bob!".
+1|[helloName](src/main/java/HelloName.java)|[unit test](src/test/java/HelloNameTest.java)|Given a string name, e.g. "Bob", return a greeting of the form "Hello Bob!".
+2|[makeAbba](src/main/java/MakeAbba.java)|[unit test](src/test/java/MakeAbbaTest.java)|Given two strings, a and b, return the result of putting them together in the order abba, e.g. "Hi" and "Bye" returns "HiByeByeHi".
 <hr/>
-<!-- 0|[name](src/main/java/org/example/)|[unit test](src/test/java/org/example)|desc-->
+<!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
 
 ## Tags
