@@ -14,6 +14,7 @@ number|solution|test|description
 6|[firstTwo](src/main/java/FirstTwo.java)|[unit test](src/test/java/FirstTwoTest.java)|Given a string, return the string made of its first two chars, so the String "Hello" yields "He". If the string is shorter than length 2, return whatever there is, so "X" yields "X", and the empty string "" yields the empty string "". Note that str.length() returns the length of a string.
 7|[firstHalf](src/main/java/FirstHalf.java)|[unit test](src/test/java/FirstHalfTest.java)|Given a string of even length, return the first half. So the string "WooHoo" yields "Woo".
 8|[withoutEnd](src/main/java/WithoutEnd.java)|[unit test](src/test/java/WithoutEndTest.java)|Given a string, return a version without the first and last char, so "Hello" yields "ell". The string length will be at least 2.
+9|[comboString](src/main/java/ComboString.java)|[unit test](src/test/java/ComboStringTest.java)|Given 2 strings, a and b, return a string of the form short+long+short, with the shorter string on the outside and the longer string on the inside. The strings will not be the same length, but they may be empty (length 0).
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
