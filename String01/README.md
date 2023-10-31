@@ -13,6 +13,7 @@ number|solution|test|description
 5|[extraEnd](src/main/java/ExtraEnd.java)|[unit test](src/test/java/ExtraEndTest.java)|Given a string, return a new string made of 3 copies of the last 2 chars of the original string. The string length will be at least 2.
 6|[firstTwo](src/main/java/FirstTwo.java)|[unit test](src/test/java/FirstTwoTest.java)|Given a string, return the string made of its first two chars, so the String "Hello" yields "He". If the string is shorter than length 2, return whatever there is, so "X" yields "X", and the empty string "" yields the empty string "". Note that str.length() returns the length of a string.
 7|[firstHalf](src/main/java/FirstHalf.java)|[unit test](src/test/java/FirstHalfTest.java)|Given a string of even length, return the first half. So the string "WooHoo" yields "Woo".
+8|[withoutEnd](src/main/java/WithoutEnd.java)|[unit test](src/test/java/WithoutEndTest.java)|Given a string, return a version without the first and last char, so "Hello" yields "ell". The string length will be at least 2.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
