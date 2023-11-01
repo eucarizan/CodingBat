@@ -23,6 +23,7 @@ number|solution|test|description
 15|[middleTwo](src/main/java/MiddleTwo.java)|[unit test](src/test/java/MiddleTwoTest.java)|Given a string of even length, return a string made of the middle two chars, so the string "string" yields "ri". The string length will be at least 2.
 16|[endsLy](src/main/java/EndsLy.java)|[unit test](src/test/java/EndsLyTest.java)|Given a string, return true if it ends in "ly".
 17|[nTwice](src/main/java/NTwice.java)|[unit test](src/test/java/NTwiceTest.java)|Given a string and an int n, return a string made of the first and last n chars from the string. The string length will be at least n.
+18|[twoChar](src/main/java/TwoChar.java)|[unit test](src/test/java/TwoCharTest.java)|Given a string and an index, return a string length 2 starting at the given index. If the index is too big or too small to define a string length 2, use the first 2 chars. The string length will be at least 2.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
