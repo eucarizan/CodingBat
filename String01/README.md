@@ -18,6 +18,7 @@ number|solution|test|description
 10|[nonStart](src/main/java/NonStart.java)|[unit test](src/test/java/NonStartTest.java)|Given 2 strings, return their concatenation, except omit the first char of each. The strings will be at least length 1.
 11|[left2](src/main/java/Left2.java)|[unit test](src/test/java/Left2Test.java)|Given a string, return a "rotated left 2" version where the first 2 chars are moved to the end. The string length will be at least 2.
 12|[right2](src/main/java/Right2.java)|[unit test](src/test/java/Right2Test.java)|Given a string, return a "rotated right 2" version where the last 2 chars are moved to the start. The string length will be at least 2.
+13|[theEnd](src/main/java/TheEnd.java)|[unit test](src/test/java/TheEndTest.java)|Given a string, return a string length 1 from its front, unless front is false, in which case return a string length 1 from its back. The string will be non-empty.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
