@@ -15,6 +15,7 @@ number|solution|test|description
 7|[firstHalf](src/main/java/FirstHalf.java)|[unit test](src/test/java/FirstHalfTest.java)|Given a string of even length, return the first half. So the string "WooHoo" yields "Woo".
 8|[withoutEnd](src/main/java/WithoutEnd.java)|[unit test](src/test/java/WithoutEndTest.java)|Given a string, return a version without the first and last char, so "Hello" yields "ell". The string length will be at least 2.
 9|[comboString](src/main/java/ComboString.java)|[unit test](src/test/java/ComboStringTest.java)|Given 2 strings, a and b, return a string of the form short+long+short, with the shorter string on the outside and the longer string on the inside. The strings will not be the same length, but they may be empty (length 0).
+10|[nonStart](src/main/java/NonStart.java)|[unit test](src/test/java/NonStartTest.java)|Given 2 strings, return their concatenation, except omit the first char of each. The strings will be at least length 1.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
