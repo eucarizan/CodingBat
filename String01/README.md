@@ -22,6 +22,7 @@ number|solution|test|description
 14|[withoutEnd2](src/main/java/WithoutEnd2.java)|[unit test](src/test/java/WithoutEnd2Test.java)|Given a string, return a version without both the first and last char of the string. The string may be any length, including 0.
 15|[middleTwo](src/main/java/MiddleTwo.java)|[unit test](src/test/java/MiddleTwoTest.java)|Given a string of even length, return a string made of the middle two chars, so the string "string" yields "ri". The string length will be at least 2.
 16|[endsLy](src/main/java/EndsLy.java)|[unit test](src/test/java/EndsLyTest.java)|Given a string, return true if it ends in "ly".
+17|[nTwice](src/main/java/NTwice.java)|[unit test](src/test/java/NTwiceTest.java)|Given a string and an int n, return a string made of the first and last n chars from the string. The string length will be at least n.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
