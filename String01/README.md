@@ -19,6 +19,7 @@ number|solution|test|description
 11|[left2](src/main/java/Left2.java)|[unit test](src/test/java/Left2Test.java)|Given a string, return a "rotated left 2" version where the first 2 chars are moved to the end. The string length will be at least 2.
 12|[right2](src/main/java/Right2.java)|[unit test](src/test/java/Right2Test.java)|Given a string, return a "rotated right 2" version where the last 2 chars are moved to the start. The string length will be at least 2.
 13|[theEnd](src/main/java/TheEnd.java)|[unit test](src/test/java/TheEndTest.java)|Given a string, return a string length 1 from its front, unless front is false, in which case return a string length 1 from its back. The string will be non-empty.
+14|[withoutEnd2](src/main/java/WithoutEnd2.java)|[unit test](src/test/java/WithoutEnd2Test.java)|Given a string, return a version without both the first and last char of the string. The string may be any length, including 0.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
