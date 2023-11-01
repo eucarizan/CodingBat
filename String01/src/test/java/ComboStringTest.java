@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SuppressWarnings("unused")
 class ComboStringTest {
-    @ParameterizedTest(name = "{0} -- method({1}, {2}) == {3}")
+    @ParameterizedTest(name = "{0} -- comboString({1}, {2}) == {3}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : Hello : hi : hiHellohi",

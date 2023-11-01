@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SuppressWarnings("unused")
 class NonStartTest {
-    @ParameterizedTest(name = "{0} -- method({1}, {2}) == {3}")
+    @ParameterizedTest(name = "{0} -- nonStart({1}, {2}) == {3}")
     @DisplayName("param test")
     @CsvSource(value = {
             "test1 : Hello : There : ellohere",
