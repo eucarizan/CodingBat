@@ -21,6 +21,7 @@ number|solution|test|description
 13|[theEnd](src/main/java/TheEnd.java)|[unit test](src/test/java/TheEndTest.java)|Given a string, return a string length 1 from its front, unless front is false, in which case return a string length 1 from its back. The string will be non-empty.
 14|[withoutEnd2](src/main/java/WithoutEnd2.java)|[unit test](src/test/java/WithoutEnd2Test.java)|Given a string, return a version without both the first and last char of the string. The string may be any length, including 0.
 15|[middleTwo](src/main/java/MiddleTwo.java)|[unit test](src/test/java/MiddleTwoTest.java)|Given a string of even length, return a string made of the middle two chars, so the string "string" yields "ri". The string length will be at least 2.
+16|[endsLy](src/main/java/EndsLy.java)|[unit test](src/test/java/EndsLyTest.java)|Given a string, return true if it ends in "ly".
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
