@@ -24,6 +24,7 @@ number|solution|test|description
 16|[endsLy](src/main/java/EndsLy.java)|[unit test](src/test/java/EndsLyTest.java)|Given a string, return true if it ends in "ly".
 17|[nTwice](src/main/java/NTwice.java)|[unit test](src/test/java/NTwiceTest.java)|Given a string and an int n, return a string made of the first and last n chars from the string. The string length will be at least n.
 18|[twoChar](src/main/java/TwoChar.java)|[unit test](src/test/java/TwoCharTest.java)|Given a string and an index, return a string length 2 starting at the given index. If the index is too big or too small to define a string length 2, use the first 2 chars. The string length will be at least 2.
+19|[middleThree](src/main/java/MiddleThree.java)|[unit test](src/test/java/MiddleThreeTest.java)|Given a string of odd length, return the string length 3 from its middle, so "Candy" yields "and". The string length will be at least 3.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
