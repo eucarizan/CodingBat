@@ -29,6 +29,7 @@ number|solution|test|description
 21|[atFirst](src/main/java/AtFirst.java)|[unit test](src/test/java/AtFirstTest.java)|Given a string, return a string length 2 made of its first 2 chars. If the string length is less than 2, use '@' for the missing chars.
 22|[lastChars](src/main/java/LastChars.java)|[unit test](src/test/java/LastCharsTest.java)|Given 2 strings, a and b, return a new string made of the first char of a and the last char of b, so "yo" and "java" yields "ya". If either string is length 0, use '@' for its missing char.
 23|[conCat](src/main/java/ConCat.java)|[unit test](src/test/java/ConCatTest.java)|Given two strings, append them together (known as "concatenation") and return the result. However, if the concatenation creates a double-char, then omit one of the chars, so "abc" and "cat" yields "abcat".
+24|[lastTwo](src/main/java/LastTwo.java)|[unit test](src/test/java/LastTwoTest.java)|Given a string of any length, return a new string where the last 2 chars, if present, are swapped, so "coding" yields "codign".
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
