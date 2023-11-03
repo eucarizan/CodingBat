@@ -27,6 +27,7 @@ number|solution|test|description
 19|[middleThree](src/main/java/MiddleThree.java)|[unit test](src/test/java/MiddleThreeTest.java)|Given a string of odd length, return the string length 3 from its middle, so "Candy" yields "and". The string length will be at least 3.
 20|[hasBad](src/main/java/HasBad.java)|[unit test](src/test/java/HasBadTest.java)|Given a string, return true if "bad" appears starting at index 0 or 1 in the string, such as with "badxxx" or "xbadxx" but not "xxbadxx". The string may be any length, including 0. Note: use .equals() to compare 2 strings.
 21|[atFirst](src/main/java/AtFirst.java)|[unit test](src/test/java/AtFirstTest.java)|Given a string, return a string length 2 made of its first 2 chars. If the string length is less than 2, use '@' for the missing chars.
+22|[lastChars](src/main/java/LastChars.java)|[unit test](src/test/java/LastCharsTest.java)|Given 2 strings, a and b, return a new string made of the first char of a and the last char of b, so "yo" and "java" yields "ya". If either string is length 0, use '@' for its missing char.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
