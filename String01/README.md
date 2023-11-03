@@ -26,6 +26,7 @@ number|solution|test|description
 18|[twoChar](src/main/java/TwoChar.java)|[unit test](src/test/java/TwoCharTest.java)|Given a string and an index, return a string length 2 starting at the given index. If the index is too big or too small to define a string length 2, use the first 2 chars. The string length will be at least 2.
 19|[middleThree](src/main/java/MiddleThree.java)|[unit test](src/test/java/MiddleThreeTest.java)|Given a string of odd length, return the string length 3 from its middle, so "Candy" yields "and". The string length will be at least 3.
 20|[hasBad](src/main/java/HasBad.java)|[unit test](src/test/java/HasBadTest.java)|Given a string, return true if "bad" appears starting at index 0 or 1 in the string, such as with "badxxx" or "xbadxx" but not "xxbadxx". The string may be any length, including 0. Note: use .equals() to compare 2 strings.
+21|[atFirst](src/main/java/AtFirst.java)|[unit test](src/test/java/AtFirstTest.java)|Given a string, return a string length 2 made of its first 2 chars. If the string length is less than 2, use '@' for the missing chars.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
