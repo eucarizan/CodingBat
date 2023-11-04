@@ -31,6 +31,7 @@ number|solution|test|description
 23|[conCat](src/main/java/ConCat.java)|[unit test](src/test/java/ConCatTest.java)|Given two strings, append them together (known as "concatenation") and return the result. However, if the concatenation creates a double-char, then omit one of the chars, so "abc" and "cat" yields "abcat".
 24|[lastTwo](src/main/java/LastTwo.java)|[unit test](src/test/java/LastTwoTest.java)|Given a string of any length, return a new string where the last 2 chars, if present, are swapped, so "coding" yields "codign".
 25|[seeColor](src/main/java/SeeColor.java)|[unit test](src/test/java/SeeColorTest.java)|Given a string, if the string begins with "red" or "blue" return that color string, otherwise return the empty string.
+26|[frontAgain](src/main/java/FrontAgain.java)|[unit test](src/test/java/FrontAgainTest.java)|Given a string, return true if the first 2 chars in the string also appear at the end of the string, such as with "edited".
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
