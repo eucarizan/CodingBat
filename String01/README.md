@@ -33,6 +33,7 @@ number|solution|test|description
 25|[seeColor](src/main/java/SeeColor.java)|[unit test](src/test/java/SeeColorTest.java)|Given a string, if the string begins with "red" or "blue" return that color string, otherwise return the empty string.
 26|[frontAgain](src/main/java/FrontAgain.java)|[unit test](src/test/java/FrontAgainTest.java)|Given a string, return true if the first 2 chars in the string also appear at the end of the string, such as with "edited".
 27|[minCat](src/main/java/MinCat.java)|[unit test](src/test/java/MinCatTest.java)|Given two strings, append them together (known as "concatenation") and return the result. However, if the strings are different lengths, omit chars from the longer string so it is the same length as the shorter string. So "Hello" and "Hi" yield "loHi". The strings may be any length.
+28|[extraFront](src/main/java/ExtraFront.java)|[unit test](src/test/java/ExtraFrontTest.java)|Given a string, return a new string made of 3 copies of the first 2 chars of the original string. The string may be any length. If there are fewer than 2 chars, use whatever is there.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
