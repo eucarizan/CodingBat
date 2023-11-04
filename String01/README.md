@@ -35,6 +35,7 @@ number|solution|test|description
 27|[minCat](src/main/java/MinCat.java)|[unit test](src/test/java/MinCatTest.java)|Given two strings, append them together (known as "concatenation") and return the result. However, if the strings are different lengths, omit chars from the longer string so it is the same length as the shorter string. So "Hello" and "Hi" yield "loHi". The strings may be any length.
 28|[extraFront](src/main/java/ExtraFront.java)|[unit test](src/test/java/ExtraFrontTest.java)|Given a string, return a new string made of 3 copies of the first 2 chars of the original string. The string may be any length. If there are fewer than 2 chars, use whatever is there.
 29|[without2](src/main/java/Without2.java)|[unit test](src/test/java/Without2Test.java)|Given a string, if a length 2 substring appears at both its beginning and end, return a string without the substring at the beginning, so "HelloHe" yields "lloHe". The substring may overlap with itself, so "Hi" yields "". Otherwise, return the original string unchanged.
+30|[deFront](src/main/java/DeFront.java)|[unit test](src/test/java/DeFrontTest.java)|Given a string, return a version without the first 2 chars. Except keep the first char if it is 'a' and keep the second char if it is 'b'. The string may be any length. Harder than it looks.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
