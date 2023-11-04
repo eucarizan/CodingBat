@@ -34,6 +34,7 @@ number|solution|test|description
 26|[frontAgain](src/main/java/FrontAgain.java)|[unit test](src/test/java/FrontAgainTest.java)|Given a string, return true if the first 2 chars in the string also appear at the end of the string, such as with "edited".
 27|[minCat](src/main/java/MinCat.java)|[unit test](src/test/java/MinCatTest.java)|Given two strings, append them together (known as "concatenation") and return the result. However, if the strings are different lengths, omit chars from the longer string so it is the same length as the shorter string. So "Hello" and "Hi" yield "loHi". The strings may be any length.
 28|[extraFront](src/main/java/ExtraFront.java)|[unit test](src/test/java/ExtraFrontTest.java)|Given a string, return a new string made of 3 copies of the first 2 chars of the original string. The string may be any length. If there are fewer than 2 chars, use whatever is there.
+29|[without2](src/main/java/Without2.java)|[unit test](src/test/java/Without2Test.java)|Given a string, if a length 2 substring appears at both its beginning and end, return a string without the substring at the beginning, so "HelloHe" yields "lloHe". The substring may overlap with itself, so "Hi" yields "". Otherwise, return the original string unchanged.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
