@@ -38,6 +38,7 @@ number|solution|test|description
 30|[deFront](src/main/java/DeFront.java)|[unit test](src/test/java/DeFrontTest.java)|Given a string, return a version without the first 2 chars. Except keep the first char if it is 'a' and keep the second char if it is 'b'. The string may be any length. Harder than it looks.
 31|[startWord](src/main/java/StartWord.java)|[unit test](src/test/java/StartWordTest.java)|Given a string and a second "word" string, we'll say that the word matches the string if it appears at the front of the string, except its first char does not need to match exactly. On a match, return the front of the string, or otherwise return the empty string. So, so with the string "hippo" the word "hi" returns "hi" and "xip" returns "hip". The word will be at least length 1.
 32|[withoutX](src/main/java/WithoutX.java)|[unit test](src/test/java/WithoutXTest.java)|Given a string, if the first or last chars are 'x', return the string without those 'x' chars, and otherwise return the string unchanged.
+33|[withoutX2](src/main/java/WithoutX2.java)|[unit test](src/test/java/WithoutX2Test.java)|Given a string, if one or both of the first 2 chars is 'x', return the string without those 'x' chars, and otherwise return the string unchanged. This is a little harder than it looks.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
