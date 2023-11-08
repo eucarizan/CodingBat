@@ -12,6 +12,7 @@ number|solution|test|description
 4|[sum3](src/main/java/Sum3.java)|[unit test](src/test/java/Sum3Test.java)|Given an array of ints length 3, return the sum of all the elements.
 5|[rotateLeft3](src/main/java/RotateLeft3.java)|[unit test](src/test/java/RotateLeft3Test.java)|Given an array of ints length 3, return an array with the elements "rotated left" so {1, 2, 3} yields {2, 3, 1}.
 6|[reverse3](src/main/java/Reverse3.java)|[unit test](src/test/java/Reverse3Test.java)|Given an array of ints length 3, return a new array with the elements in reverse order, so {1, 2, 3} becomes {3, 2, 1}.
+7|[maxEnd3](src/main/java/MaxEnd3.java)|[unit test](src/test/java/MaxEnd3Test.java)|Given an array of ints length 3, figure out which is larger, the first or last element in the array, and set all the other elements to be that value. Return the changed array.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
