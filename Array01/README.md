@@ -18,6 +18,7 @@ number|solution|test|description
 10|[makeEnds](src/main/java/MakeEnds.java)|[unit test](src/test/java/MakeEndsTest.java)|Given an array of ints, return a new array length 2 containing the first and last elements from the original array. The original array will be length 1 or more.
 11|[has23](src/main/java/Has23.java)|[unit test](src/test/java/Has23Test.java)|Given an int array length 2, return true if it contains a 2 or a 3.
 12|[no23](src/main/java/No23.java)|[unit test](src/test/java/No23Test.java)|Given an int array length 2, return true if it does not contain a 2 or 3.
+13|[makeLast](src/main/java/MakeLast.java)|[unit test](src/test/java/MakeLastTest.java)|Given an int array, return a new array with double the length where its last element is the same as the original array, and all the other elements are 0. The original array will be length 1 or more. Note: by default, a new int array contains all 0's.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
