@@ -17,6 +17,7 @@ number|solution|test|description
 9|[middleWay](src/main/java/MiddleWay.java)|[unit test](src/test/java/MiddleWayTest.java)|Given 2 int arrays, a and b, each length 3, return a new array length 2 containing their middle elements.
 10|[makeEnds](src/main/java/MakeEnds.java)|[unit test](src/test/java/MakeEndsTest.java)|Given an array of ints, return a new array length 2 containing the first and last elements from the original array. The original array will be length 1 or more.
 11|[has23](src/main/java/Has23.java)|[unit test](src/test/java/Has23Test.java)|Given an int array length 2, return true if it contains a 2 or a 3.
+12|[no23](src/main/java/No23.java)|[unit test](src/test/java/No23Test.java)|Given an int array length 2, return true if it does not contain a 2 or 3.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
