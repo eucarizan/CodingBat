@@ -20,6 +20,7 @@ number|solution|test|description
 12|[no23](src/main/java/No23.java)|[unit test](src/test/java/No23Test.java)|Given an int array length 2, return true if it does not contain a 2 or 3.
 13|[makeLast](src/main/java/MakeLast.java)|[unit test](src/test/java/MakeLastTest.java)|Given an int array, return a new array with double the length where its last element is the same as the original array, and all the other elements are 0. The original array will be length 1 or more. Note: by default, a new int array contains all 0's.
 14|[double23](src/main/java/Double23.java)|[unit test](src/test/java/Double23Test.java)|Given an int array, return true if the array contains 2 twice, or 3 twice. The array will be length 0, 1, or 2.
+15|[start1](src/main/java/Start1.java)|[unit test](src/test/java/Start1Test.java)|Start with 2 int arrays, a and b, of any length. Return how many of the arrays have 1 as their first element.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
