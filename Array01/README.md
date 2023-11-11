@@ -27,8 +27,8 @@ number|solution|test|description
 19|[swapEnds](src/main/java/SwapEnds.java)|[unit test](src/test/java/SwapEndsTest.java)|Given an array of ints, swap the first and last elements in the array. Return the modified array. The array length will be at least 1.
 20|[midThree](src/main/java)|[unit test](src/test/java/MidThreeTest.java)|Given an array of ints of odd length, return a new array length 3 containing the elements from the middle of the array. The array length will be at least 3.
 21|[maxTriple](src/main/java/MaxTriple.java)|[unit test](src/test/java/MaxTripleTest.java)|Given an array of ints of odd length, look at the first, last, and middle values in the array and return the largest. The array length will be a least 1.
+22|[frontPiece](src/main/java/FrontPiece.java)|[unit test](src/test/java/FrontPieceTest.java)|Given an int array of any length, return a new array of its first 2 elements. If the array is smaller than length 2, use whatever elements are present.
 <hr/>
-<!-- 22|[frontPiece](src/main/java/FrontPiece.java)|[unit test](src/test/java/FrontPieceTest.java)|Given an int array of any length, return a new array of its first 2 elements. If the array is smaller than length 2, use whatever elements are present.⭐ -->
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
 ## Tags
