@@ -28,6 +28,7 @@ number|solution|test|description
 20|[midThree](src/main/java)|[unit test](src/test/java/MidThreeTest.java)|Given an array of ints of odd length, return a new array length 3 containing the elements from the middle of the array. The array length will be at least 3.
 21|[maxTriple](src/main/java/MaxTriple.java)|[unit test](src/test/java/MaxTripleTest.java)|Given an array of ints of odd length, look at the first, last, and middle values in the array and return the largest. The array length will be a least 1.
 22|[frontPiece](src/main/java/FrontPiece.java)|[unit test](src/test/java/FrontPieceTest.java)|Given an int array of any length, return a new array of its first 2 elements. If the array is smaller than length 2, use whatever elements are present.
+23|[unlucky1](src/main/java/Unlucky1.java)|[unit test](src/test/java/Unlucky1Test.java)|We'll say that a 1 immediately followed by a 3 in an array is an "unlucky" 1. Return true if the given array contains an unlucky 1 in the first 2 or last 2 positions in the array.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
