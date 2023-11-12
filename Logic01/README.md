@@ -12,8 +12,8 @@ number|solution|test|description
 4|[caughtSpeeding](src/main/java/CaughtSpeeding.java)|[unit test](src/test/java/CaughtSpeedingTest.java)|You are driving a little too fast, and a police officer stops you. Write code to compute the result, encoded as an int value: 0=no ticket, 1=small ticket, 2=big ticket. If speed is 60 or less, the result is 0. If speed is between 61 and 80 inclusive, the result is 1. If speed is 81 or more, the result is 2. Unless it is your birthday -- on that day, your speed can be 5 higher in all cases.
 5|[sortaSum](src/main/java/SortaSum.java)|[unit test](src/test/java/SortaSumTest.java)|Given 2 ints, a and b, return their sum. However, sums in the range 10..19 inclusive, are forbidden, so in that case just return 20.
 6|[alarmClock](src/main/java/AlarmClock.java)|[unit test](src/test/java/AlarmClockTest.java)|Given a day of the week encoded as 0=Sun, 1=Mon, 2=Tue, ...6=Sat, and a boolean indicating if we are on vacation, return a string of the form "7:00" indicating when the alarm clock should ring. Weekdays, the alarm should be "7:00" and on the weekend it should be "10:00". Unless we are on vacation -- then on weekdays it should be "10:00" and weekends it should be "off".
+7|[love6](src/main/java/Love6.java)|[unit test](src/test/java/Love6Test.java)|The number 6 is a truly great number. Given two int values, a and b, return true if either one is 6. Or if their sum or difference is 6. Note: the function Math.abs(num) computes the absolute value of a number.
 <hr/>
-<!-- 7|[love6](src/main/java/Love6.java)|[unit test](src/test/java/Love6Test.java)|The number 6 is a truly great number. Given two int values, a and b, return true if either one is 6. Or if their sum or difference is 6. Note: the function Math.abs(num) computes the absolute value of a number. -->
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
 ## Tags
