@@ -15,6 +15,7 @@ number|solution|test|description
 7|[love6](src/main/java/Love6.java)|[unit test](src/test/java/Love6Test.java)|The number 6 is a truly great number. Given two int values, a and b, return true if either one is 6. Or if their sum or difference is 6. Note: the function Math.abs(num) computes the absolute value of a number.
 8|[in1To10](src/main/java/In1To10.java)|[unit test](src/test/java/In1To10Test.java)|Given a number n, return true if n is in the range 1..10, inclusive. Unless outsideMode is true, in which case return true if the number is less or equal to 1, or greater or equal to 10.
 9|[specialEleven](src/main/java/SpecialEleven.java)|[unit test](src/test/java/SpecialElevenTest.java)|We'll say a number is special if it is a multiple of 11 or if it is one more than a multiple of 11. Return true if the given non-negative number is special.
+10|[more20](src/main/java/More20.java)|[unit test](src/test/java/More20Test.java)|Return true if the given non-negative number is 1 or 2 more than a multiple of 20.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
