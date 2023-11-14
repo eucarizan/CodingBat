@@ -16,6 +16,7 @@ number|solution|test|description
 8|[in1To10](src/main/java/In1To10.java)|[unit test](src/test/java/In1To10Test.java)|Given a number n, return true if n is in the range 1..10, inclusive. Unless outsideMode is true, in which case return true if the number is less or equal to 1, or greater or equal to 10.
 9|[specialEleven](src/main/java/SpecialEleven.java)|[unit test](src/test/java/SpecialElevenTest.java)|We'll say a number is special if it is a multiple of 11 or if it is one more than a multiple of 11. Return true if the given non-negative number is special.
 10|[more20](src/main/java/More20.java)|[unit test](src/test/java/More20Test.java)|Return true if the given non-negative number is 1 or 2 more than a multiple of 20.
+11|[old35](src/main/java/Old35.java)|[unit test](src/test/java/Old35Test.java)|Return true if the given non-negative number is a multiple of 3 or 5, but not both.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
