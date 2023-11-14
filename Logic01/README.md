@@ -17,6 +17,7 @@ number|solution|test|description
 9|[specialEleven](src/main/java/SpecialEleven.java)|[unit test](src/test/java/SpecialElevenTest.java)|We'll say a number is special if it is a multiple of 11 or if it is one more than a multiple of 11. Return true if the given non-negative number is special.
 10|[more20](src/main/java/More20.java)|[unit test](src/test/java/More20Test.java)|Return true if the given non-negative number is 1 or 2 more than a multiple of 20.
 11|[old35](src/main/java/Old35.java)|[unit test](src/test/java/Old35Test.java)|Return true if the given non-negative number is a multiple of 3 or 5, but not both.
+12|[less20](src/main/java/Less20.java)|[unit test](src/test/java/Less20Test.java)|Return true if the given non-negative number is 1 or 2 less than a multiple of 20. So for example 38 and 39 return true, but 40 returns false.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
