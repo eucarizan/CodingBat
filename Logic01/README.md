@@ -18,6 +18,7 @@ number|solution|test|description
 10|[more20](src/main/java/More20.java)|[unit test](src/test/java/More20Test.java)|Return true if the given non-negative number is 1 or 2 more than a multiple of 20.
 11|[old35](src/main/java/Old35.java)|[unit test](src/test/java/Old35Test.java)|Return true if the given non-negative number is a multiple of 3 or 5, but not both.
 12|[less20](src/main/java/Less20.java)|[unit test](src/test/java/Less20Test.java)|Return true if the given non-negative number is 1 or 2 less than a multiple of 20. So for example 38 and 39 return true, but 40 returns false.
+13|[nearTen](src/main/java/NearTen.java)|[unit test](src/test/java/NearTenTest.java)|Given a non-negative number "num", return true if num is within 2 of a multiple of 10.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
