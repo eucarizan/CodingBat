@@ -22,6 +22,7 @@ number|solution|test|description
 14|[teenSum](src/main/java/TeenSum.java)|[unit test](src/test/java/TeenSumTest.java)|Given 2 ints, a and b, return their sum. However, "teen" values in the range 13..19 inclusive, are extra lucky. So if either value is a teen, just return 19.
 15|[answerCell](src/main/java/AnswerCell.java)|[unit test](src/test/java/AnswerCellTest.java)|Your cell phone rings. Return true if you should answer it. Normally you answer, except in the morning you only answer if it is your mom calling. In all cases, if you are asleep, you do not answer.
 16|[teaParty](src/main/java/TeaParty.java)|[unit test](src/test/java/TeaPartyTest.java)|We are having a party with amounts of tea and candy. Return the int outcome of the party encoded as 0=bad, 1=good, or 2=great. A party is good (1) if both tea and candy are at least 5. However, if either tea or candy is at least double the amount of the other one, the party is great (2). However, in all cases, if either tea or candy is less than 5, the party is always bad (0).
+17|[fizzString](src/main/java/FizzString.java)|[unit test](src/test/java/FizzStringTest.java)|Given a string str, if the string starts with "f" return "Fizz". If the string ends with "b" return "Buzz". If both the "f" and "b" conditions are true, return "FizzBuzz".
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
