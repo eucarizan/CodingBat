@@ -20,6 +20,7 @@ number|solution|test|description
 12|[less20](src/main/java/Less20.java)|[unit test](src/test/java/Less20Test.java)|Return true if the given non-negative number is 1 or 2 less than a multiple of 20. So for example 38 and 39 return true, but 40 returns false.
 13|[nearTen](src/main/java/NearTen.java)|[unit test](src/test/java/NearTenTest.java)|Given a non-negative number "num", return true if num is within 2 of a multiple of 10.
 14|[teenSum](src/main/java/TeenSum.java)|[unit test](src/test/java/TeenSumTest.java)|Given 2 ints, a and b, return their sum. However, "teen" values in the range 13..19 inclusive, are extra lucky. So if either value is a teen, just return 19.
+15|[answerCell](src/main/java/AnswerCell.java)|[unit test](src/test/java/AnswerCellTest.java)|Your cell phone rings. Return true if you should answer it. Normally you answer, except in the morning you only answer if it is your mom calling. In all cases, if you are asleep, you do not answer.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
