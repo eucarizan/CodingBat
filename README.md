@@ -12,7 +12,7 @@ topic name|description|completion
 [warmup-2](./WarmUp02/README.md#codingbat---warmup-2)|medium warmup string/array loops|⭐⭐⭐⭐⭐⭐
 [string-1](./String01/README.md#codingbat---string-1)|basic string problems -- no loops|⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 [array-1](./Array01/README.md#codingbat---array-1)|basic array problems -- no loops|⭐⭐⭐⭐⭐⭐⭐⭐⭐
-[logic-1](./Logic01/README.md#codingbat---logic-1)|basic boolean logic puzzles -- if else && \|\| !|⭐⭐⭐⭐⭐⭐☆☆☆☆
+[logic-1](./Logic01/README.md#codingbat---logic-1)|basic boolean logic puzzles -- if else && \|\| !|⭐⭐⭐⭐⭐⭐⭐☆☆☆
 logic-2|medium boolean logic puzzles -- if else && \|\| !|☆☆☆
 string-2|medium string problems -- 1 loop|☆☆☆☆☆☆☆
 string-3|harder string problems -- 2 loops|☆☆☆☆
