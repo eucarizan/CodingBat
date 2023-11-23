@@ -25,6 +25,7 @@ number|solution|test|description
 17|[fizzString](src/main/java/FizzString.java)|[unit test](src/test/java/FizzStringTest.java)|Given a string str, if the string starts with "f" return "Fizz". If the string ends with "b" return "Buzz". If both the "f" and "b" conditions are true, return "FizzBuzz".
 18|[fizzString2](src/main/java/FizzString2.java)|[unit test](src/test/java/FizzString2Test.java)|Given an int n, return the string form of the number followed by "!". So the int 6 yields "6!". Except if the number is divisible by 3 use "Fizz" instead of the number, and if the number is divisible by 5 use "Buzz", and if divisible by both 3 and 5, use "FizzBuzz". Note: the % "mod" operator computes the remainder after division, so 23 % 10 yields 3. What will the remainder be when one number divides evenly into another?
 19|[twoAsOne](src/main/java/TwoAsOne.java)|[unit test](src/test/java/TwoAsOneTest.java)|Given three ints, a b c, return true if it is possible to add two of the ints to get the third.
+20|[inOrder](src/main/java/InOrder.java)|[unit test](src/test/java/InOrderTest.java)|Given three ints, a b c, return true if b is greater than a, and c is greater than b. However, with the exception that if "bOk" is true, b does not need to be greater than a.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
