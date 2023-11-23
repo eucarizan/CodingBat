@@ -24,6 +24,7 @@ number|solution|test|description
 16|[teaParty](src/main/java/TeaParty.java)|[unit test](src/test/java/TeaPartyTest.java)|We are having a party with amounts of tea and candy. Return the int outcome of the party encoded as 0=bad, 1=good, or 2=great. A party is good (1) if both tea and candy are at least 5. However, if either tea or candy is at least double the amount of the other one, the party is great (2). However, in all cases, if either tea or candy is less than 5, the party is always bad (0).
 17|[fizzString](src/main/java/FizzString.java)|[unit test](src/test/java/FizzStringTest.java)|Given a string str, if the string starts with "f" return "Fizz". If the string ends with "b" return "Buzz". If both the "f" and "b" conditions are true, return "FizzBuzz".
 18|[fizzString2](src/main/java/FizzString2.java)|[unit test](src/test/java/FizzString2Test.java)|Given an int n, return the string form of the number followed by "!". So the int 6 yields "6!". Except if the number is divisible by 3 use "Fizz" instead of the number, and if the number is divisible by 5 use "Buzz", and if divisible by both 3 and 5, use "FizzBuzz". Note: the % "mod" operator computes the remainder after division, so 23 % 10 yields 3. What will the remainder be when one number divides evenly into another?
+19|[twoAsOne](src/main/java/TwoAsOne.java)|[unit test](src/test/java/TwoAsOneTest.java)|Given three ints, a b c, return true if it is possible to add two of the ints to get the third.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
