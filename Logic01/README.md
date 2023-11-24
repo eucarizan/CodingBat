@@ -32,6 +32,7 @@ number|solution|test|description
 24|[withoutDoubles](src/main/java/WithoutDoubles.java)|[unit test](src/test/java/WithoutDoublesTest.java)|Return the sum of two 6-sided dice rolls, each in the range 1..6. However, if noDoubles is true, if the two dice show the same value, increment one die to the next value, wrapping around to 1 if its value was 6.⭐
 25|[maxMod5](src/main/java/MaxMod5.java)|[unit test](src/test/java/MaxMod5Test.java)|Given two int values, return whichever value is larger. However if the two values have the same remainder when divided by 5, then the return the smaller value. However, in all cases, if the two values are the same, return 0. Note: the % "mod" operator computes the remainder, e.g. 7 % 5 is 2.
 26|[redTicket](src/main/java/RedTicket.java)|[unit test](src/test/java/RedTicketTest.java)|You have a red lottery ticket showing ints a, b, and c, each of which is 0, 1, or 2. If they are all the value 2, the result is 10. Otherwise if they are all the same, the result is 5. Otherwise so long as both b and c are different from a, the result is 1. Otherwise the result is 0.
+27|[greenTicket](src/main/java/GreenTicket.java)|[unit test](src/test/java/GreenTicketTest.java)|You have a green lottery ticket, with ints a, b, and c on it. If the numbers are all different from each other, the result is 0. If all of the numbers are the same, the result is 20. If two of the numbers are the same, the result is 10.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
