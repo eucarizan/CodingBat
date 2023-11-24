@@ -30,8 +30,8 @@ number|solution|test|description
 22|[lastDigit](src/main/java/LastDigit.java)|[unit test](src/test/java/LastDigitTest.java)|Given three ints, a b c, return true if two or more of them have the same rightmost digit. The ints are non-negative. Note: the % "mod" operator computes the remainder, e.g. 17 % 10 is 7.
 23|[lessBy10](src/main/java/LessBy10.java)|[unit test](src/test/java/LessBy10Test.java)|Given three ints, a b c, return true if one of them is 10 or more less than one of the others.
 24|[withoutDoubles](src/main/java/WithoutDoubles.java)|[unit test](src/test/java/WithoutDoublesTest.java)|Return the sum of two 6-sided dice rolls, each in the range 1..6. However, if noDoubles is true, if the two dice show the same value, increment one die to the next value, wrapping around to 1 if its value was 6.⭐
+25|[maxMod5](src/main/java/MaxMod5.java)|[unit test](src/test/java/MaxMod5Test.java)|Given two int values, return whichever value is larger. However if the two values have the same remainder when divided by 5, then the return the smaller value. However, in all cases, if the two values are the same, return 0. Note: the % "mod" operator computes the remainder, e.g. 7 % 5 is 2.
 <hr/>
-<!-- 25|[maxMod5](src/main/java/MaxMod5.java)|[unit test](src/test/java/MaxMod5Test.java)|Given two int values, return whichever value is larger. However if the two values have the same remainder when divided by 5, then the return the smaller value. However, in all cases, if the two values are the same, return 0. Note: the % "mod" operator computes the remainder, e.g. 7 % 5 is 2. -->
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
 ## Tags
