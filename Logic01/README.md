@@ -34,6 +34,7 @@ number|solution|test|description
 26|[redTicket](src/main/java/RedTicket.java)|[unit test](src/test/java/RedTicketTest.java)|You have a red lottery ticket showing ints a, b, and c, each of which is 0, 1, or 2. If they are all the value 2, the result is 10. Otherwise if they are all the same, the result is 5. Otherwise so long as both b and c are different from a, the result is 1. Otherwise the result is 0.
 27|[greenTicket](src/main/java/GreenTicket.java)|[unit test](src/test/java/GreenTicketTest.java)|You have a green lottery ticket, with ints a, b, and c on it. If the numbers are all different from each other, the result is 0. If all of the numbers are the same, the result is 20. If two of the numbers are the same, the result is 10.
 28|[blueTicket](src/main/java/BlueTicket.java)|[unit test](src/test/java/BlueTicketTest.java)|You have a blue lottery ticket, with ints a, b, and c on it. This makes three pairs, which we'll call ab, bc, and ac. Consider the sum of the numbers in each pair. If any pair sums to exactly 10, the result is 10. Otherwise if the ab sum is exactly 10 more than either bc or ac sums, the result is 5. Otherwise the result is 0.
+29|[shareDigit](src/main/java/ShareDigit.java)|[unit test](src/test/java/ShareDigitTest.java)|Given two ints, each in the range 10..99, return true if there is a digit that appears in both numbers, such as the 2 in 12 and 23. (Note: division, e.g. n/10, gives the left digit while the % "mod" n%10 gives the right digit.)
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
