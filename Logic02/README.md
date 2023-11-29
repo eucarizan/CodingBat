@@ -13,6 +13,7 @@ number|solution|test|description
 5|[roundSum](src/main/java/RoundSum.java)|[unit test](src/test/java/RoundSumTest.java)|For this problem, we'll round an int value up to the next multiple of 10 if its rightmost digit is 5 or more, so 15 rounds up to 20. Alternately, round down to the previous multiple of 10 if its rightmost digit is less than 5, so 12 rounds down to 10. Given 3 ints, a b c, return the sum of their rounded values. To avoid code repetition, write a separate helper "public int round10(int num) {" and call it 3 times. Write the helper entirely below and at the same indent level as roundSum().
 6|[closeFar](src/main/java/CloseFar.java)|[unit test](src/test/java/CloseFarTest.java)|Given three ints, a b c, return true if one of b or c is "close" (differing from a by at most 1), while the other is "far", differing from both other values by 2 or more. Note: Math.abs(num) computes the absolute value of a number.
 7|[blackjack](src/main/java/BlackJack.java)|[unit test](src/test/java/BlackJackTest.java)|Given 2 int values greater than 0, return whichever value is nearest to 21 without going over. Return 0 if they both go over.
+8|[evenlySpaced](src/main/java/EvenlySpaced.java)|[unit test](src/test/java/EvenlySpacedTest.java)|Given three ints, a b c, one of them is small, one is medium and one is large. Return true if the three values are evenly spaced, so the difference between small and medium is the same as the difference between medium and large.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
