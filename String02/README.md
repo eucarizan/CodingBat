@@ -12,6 +12,7 @@ number|solution|test|description
 5|[endOther](src/main/java/EndOther.java)|[unit test](src/test/java/EndOtherTest.java)|Given two strings, return true if either of the strings appears at the very end of the other string, ignoring upper/lower case differences (in other words, the computation should not be "case sensitive"). Note: str.toLowerCase() returns the lowercase version of a string.
 6|[xyzThere](src/main/java/XyzThere.java)|[unit test](src/test/java/XyzThereTest.java)|Return true if the given string contains an appearance of "xyz" where the xyz is not directly preceeded by a period (.). So "xxyz" counts but "x.xyz" does not.
 7|[noobThere](src/main/java/NoobThere.java)|[unit test](src/test/java/NoobThereTest.java)|Return true if the given string contains a "bob" string, but where the middle 'o' char can be any char.
+8|[xyBalance](src/main/java/XyBalance.java)|[unit test](src/test/java/XyBalanceTest.java)|We'll say that a String is xy-balanced if for all the 'x' chars in the string, there exists a 'y' char somewhere later in the string. So "xxy" is balanced, but "xyx" is not. One 'y' can balance multiple 'x's. Return true if the given string is xy-balanced.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
