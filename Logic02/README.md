@@ -14,6 +14,7 @@ number|solution|test|description
 6|[closeFar](src/main/java/CloseFar.java)|[unit test](src/test/java/CloseFarTest.java)|Given three ints, a b c, return true if one of b or c is "close" (differing from a by at most 1), while the other is "far", differing from both other values by 2 or more. Note: Math.abs(num) computes the absolute value of a number.
 7|[blackjack](src/main/java/BlackJack.java)|[unit test](src/test/java/BlackJackTest.java)|Given 2 int values greater than 0, return whichever value is nearest to 21 without going over. Return 0 if they both go over.
 8|[evenlySpaced](src/main/java/EvenlySpaced.java)|[unit test](src/test/java/EvenlySpacedTest.java)|Given three ints, a b c, one of them is small, one is medium and one is large. Return true if the three values are evenly spaced, so the difference between small and medium is the same as the difference between medium and large.
+9|[makeChocolate](src/main/java/MakeChocolate.java)|[unit test](src/test/java/MakeChocolateTest.java)|We want make a package of goal kilos of chocolate. We have small bars (1 kilo each) and big bars (5 kilos each). Return the number of small bars to use, assuming we always use big bars before small bars. Return -1 if it can't be done.
 <hr/>
 <!-- 0|[name](src/main/java)|[unit test](src/test/java)|desc-->
 
