@@ -23,6 +23,6 @@ recursion-1|basic recursion problems|☆☆☆☆☆☆☆☆
 recursion-2|harder recursion problems|☆☆☆
 map-1|basic map get()/put(), no loops|☆☆☆
 map-2|maps with bulk data and loops|☆☆☆
-[functional-1](./Functional01/README.md)|functional mapping operations on lists with lambdas|⭐☆☆
+[functional-1](./Functional01/README.md)|functional mapping operations on lists with lambdas|⭐⭐☆
 functional-2|functional filtering and mapping operations on lists with lambdas|☆☆☆
 <hr>
