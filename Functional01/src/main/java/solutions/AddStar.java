@@ -1,10 +1,12 @@
+package solutions;
+
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class MoreY {
-    public static List<String> moreY(List<String> strings) {
+public class AddStar {
+    public static List<String> addStar(List<String> strings) {
         return strings.stream()
-                .map(e -> String.format("y%sy", e))
+                .map(e -> e + '*')
                 .collect(Collectors.toList());
     }
 }
