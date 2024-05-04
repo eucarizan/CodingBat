@@ -1,0 +1,7 @@
+"test : this, not, too, long : [not, too]",
+"test : a, bbb, cccc : [a, bbb]",
+"test : cccc, cccc, cccc : []",
+"test : '' : []",
+"test : empty, '' , empty : []",
+"test : a : [a]",
+"test : aaaa, bbb, ***, 333 : [bbb, ***, 333]"

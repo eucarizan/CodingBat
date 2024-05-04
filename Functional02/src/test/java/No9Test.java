@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Arrays;
 
 @SuppressWarnings("unused")
-class SomeParamTest {
+class No9Test {
     @ParameterizedTest(name = "{0} -- no9({1}) == {2}")
     @DisplayName("no9 test")
     @CsvSource(value = {
